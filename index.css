@@ -6,6 +6,12 @@ html, body {
   padding: 0; 
 }
 
+.container {
+	margin: 0 auto;
+	max-width: 940px; 
+	padding: 0 10px; 
+}
+
 .header {
   background: url(http://aquinashub.co.uk/wp-content/uploads/2015/04/shutterstock_computer_programming.jpg) no-repeat center center; /*https://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg*/
   background-size: cover;
