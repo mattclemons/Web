@@ -23,6 +23,16 @@ html, body {
   text-transform: uppercase;
 }
 
+.header h3 {
+  color: #31363d;
+  font-size: 32px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  top: 44px;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}
 .nav ul {
   height: 50px;
   margin: 0 0 30px;
