@@ -51,12 +51,16 @@ html, body {
 }
 
 .footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
   height: 300px;
-  padding: 0px 0px;
   background-color: #000;
   color: #fff;
-  clear: both;
-  position: relative;
 }
 
 .footer h3 {
