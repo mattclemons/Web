@@ -53,8 +53,7 @@ html, body {
 }
 
 .row {
-  /*margin-top: 150px;*/
-  position: relative;
+  margin-top: 150px;
   text-align: center;
 }
 
