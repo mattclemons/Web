@@ -55,7 +55,8 @@ html, body {
   padding: 0px 0px;
   background-color: #000;
   color: #fff;
-  margin-bottom: 0px;
+  clear: both;
+  position: relative;
 }
 
 .footer h3 {
