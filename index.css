@@ -48,6 +48,8 @@ html, body {
   color:#fff;
   font-size:16px;
   font-weight:300;
+  border: 0px;
+  border-radius: 0px;
   padding:10px 10px;
   text-decoration:none
 }
