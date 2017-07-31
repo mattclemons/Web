@@ -44,7 +44,7 @@ html, body {
 }
 
 .btn {
-  background-color:#4386fc;
+  background: rgba(0,240,190,0.25);
   color:#fff;
   font-size:16px;
   font-weight:300;
