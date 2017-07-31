@@ -58,6 +58,7 @@ html, body {
 }
 
 .footer {
+  height: 140px;
   position: absolute;
   right: 0;
   bottom: 0;
