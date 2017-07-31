@@ -74,13 +74,24 @@ html, body {
 }
 
 .footer {
-  text-align: right;
-  color: #31363d;
-  height: 70px;
-  line-height: 70px;
-  padding-right: 40px;
-  text-transform: uppercase;
-  margin-bottom: 100px;
+  padding: 60px 0px;
+  background-color: #000;
+  color: #fff;
+}
+
+.footer h3 {
+  font-size: 20px;
+}
+
+.footer img {
+  width: 24px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.footer p {
+  font-size: 12px;
+  margin-bottom: 0;
 }
 
 @media (max-width: 500px) {
