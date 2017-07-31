@@ -52,7 +52,7 @@ html, body {
   text-decoration:none
 }
 
-.row {
+.col-md-4 {
   margin-top: 150px;
   text-align: center;
 }
