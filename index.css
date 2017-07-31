@@ -7,7 +7,7 @@ html, body {
 }
 
 .header {
-  background: url(https://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg);
+  background: url(https://edge.alluremedia.com.au/m/k/2016/01/shutterstock-programming.jpg) center;
   height: 140px;
   text-align: center;
 }
