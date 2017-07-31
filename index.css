@@ -58,11 +58,11 @@ html, body {
 }
 
 .footer {
-  position: relative; /*absolute;*/
+  position: absolute;
   right: 0;
   bottom: 0;
   left: 0;
-  padding-bottom: 10px;
+  /*padding-bottom: 10px;*/
   background-color: #000;
   color: #fff;
   text-align: left;
