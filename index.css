@@ -58,7 +58,7 @@ html, body {
 }
 
 .footer {
-  position: absolute;
+  position: relative; /*absolute;*/
   right: 0;
   bottom: 0;
   left: 0;
