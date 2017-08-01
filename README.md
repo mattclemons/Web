@@ -1,1 +1,1 @@
-# Web
+# Simple HTML/CSS projects.
