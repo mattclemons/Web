@@ -4,10 +4,6 @@ html, body {
 	font-family: 'Montserrat', sans-serif;
 }
 
-.container {
-  
-}
-
 body {
     background: url(https://s3.amazonaws.com/codecademy-content/projects/armando-perez/brand.jpg) no-repeat fixed;
   background-size: 100%;
@@ -23,7 +19,6 @@ body {
   color: #fff;
   margin: 0 0 30px;
   font-size: 30px;
-  text-transform: uppercase;
 }
 
 .header ul, .footer ul {
