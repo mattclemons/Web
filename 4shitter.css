@@ -33,7 +33,8 @@ a {
 .main {
   height: 550px;
   padding-top: 55px;
-  background: url(https://s3.amazonaws.com/codecademy-content/projects/shutterbugg/intro.jpg);
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/shutterbugg/intro.jpg) no-repeat center center;
+  background-size: cover;
 }
 
 .main p { 
