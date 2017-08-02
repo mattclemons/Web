@@ -45,7 +45,8 @@ html, body {
 
 /* Middle */
 .middle {
-  height: 600px;
+  margin-top: 50px;
+  text-align: center;
 }
 
 .thumbnail {
@@ -71,10 +72,10 @@ html, body {
   text-decoration:none
 }
 
-.col-md-4 {
-  margin-top: 150px;
+/* .col-md-4 {
+  margin-top: 50px;
   text-align: center;
-}
+} */
 
 .footer {
   position: absolute;
