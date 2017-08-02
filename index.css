@@ -57,8 +57,10 @@ html, body {
 }
 
 .thumbnail img {
-  width: 100px;
-  height: 100px;
+    height: auto; 
+    width: auto; 
+    max-width: 200px; 
+    max-height: 100px;
   display: block;
 }
 
