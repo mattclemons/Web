@@ -59,6 +59,7 @@ html, body {
 .thumbnail img {
   width: 100%;
   display: block;
+  max-height: 100px;
 }
 
 .btn {
@@ -71,11 +72,6 @@ html, body {
   padding:10px 10px;
   text-decoration:none
 }
-
-/* .col-md-4 {
-  margin-top: 50px;
-  text-align: center;
-} */
 
 .footer {
   position: absolute;
