@@ -56,15 +56,10 @@ html, body {
   border: 0px;
 }
 
-/* .thumbnail img {
+.thumbnail img {
   height: auto; 
   width: auto; 
   display: block;
-} */
-
-.thumbnail img.resize {
-    width: auto; 
-    height: 200px;
 }
 
 .btn {
