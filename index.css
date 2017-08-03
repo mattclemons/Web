@@ -97,5 +97,6 @@ html, body {
     height: 142px; 
 }
 .site-footer {
-  background: orange;
+  background-color: #000;
+  color: #fff;
 }
