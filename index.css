@@ -48,6 +48,7 @@ html, body {
 .main {
   margin-top: 50px;
   text-align: center;
+  height: 600;
 }
 
 .thumbnail {
