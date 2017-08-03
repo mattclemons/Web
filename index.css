@@ -13,7 +13,6 @@ html, body {
 }
 
 .header {
-  /*background: url(https://timebusinessblog.files.wordpress.com/2012/06/programming.jpg) no-repeat center center;*/
   background: url(indexbg.jpg) no-repeat center center;
   background-size: cover;
   height: 140px;
@@ -48,7 +47,6 @@ html, body {
 .main {
   margin-top: 50px;
   text-align: center;
-  overflow: scroll;
 }
 
 .thumbnail {
