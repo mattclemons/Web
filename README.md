@@ -1,1 +1,1 @@
-# Simple HTML/CSS projects.
+#HTML/CSS projects.
