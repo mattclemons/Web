@@ -63,7 +63,7 @@ html, body {
   display: block;
 }
 
-/* .footer {
+.footer {
   position: absolute;
   right: 0;
   bottom: 0;
@@ -72,7 +72,7 @@ html, body {
   background-color: #000;
   color: #fff;
   text-align: left;
-} */
+}
 
 /*.footer {
   position: fixed;
@@ -83,7 +83,7 @@ html, body {
   color: #fff;
 }*/
 
-.footer {
+/*.footer {
 bottom:0px;
 height:100;
 right:0%;
@@ -101,4 +101,4 @@ text-align:center;
 visibility:visible;
 background-color: #000;
   color: #fff;
-}
+}*/
