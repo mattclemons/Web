@@ -63,17 +63,6 @@ html, body {
   display: block;
 }
 
-.btn {
-  background: #D8192F;
-  color:#fff;
-  font-size:16px;
-  font-weight:300;
-  border: 0px;
-  /*border-radius: 0px;*/
-  padding:10px 10px;
-  text-decoration:none
-}
-
 /* .footer {
   position: absolute;
   right: 0;
