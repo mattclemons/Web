@@ -94,5 +94,8 @@ html, body {
   background-color: #000;
 }
 
-
+.footer a {
+  text-align: right;
+  color: #fff;
+}
 
